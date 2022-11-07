@@ -10,9 +10,9 @@ global.antitags = true
 global.Owner = ['2250556933397']
 global.OwnerNumber = ['2250556933397']
 global.ownertag = ['2250556933397']
-global.BotName = "𝙆𝙄𝙇𝙇𝙐𝘼"
+global.BotName = "𝙈𝙀𝙇𝙄𝙎𝙎𝘼✨"
 global.packname = "𝙎𝙊𝙈𝘽𝙍𝙀 ♣ 𝘿𝘼𝙀𝙈𝙊𝙉"
-global.author = ""
+global.author = "≥"
 global.OwnerName = "𝘿𝘼𝙍𝙆 𝙆𝙄𝙇𝙇𝙐𝘼"
 global.BotSourceCode = "https://github.com/Ayush-pandey-u/Chiku-MD"
 global.SupportGroupLink = "https://chat.whatsapp.com/DYp7FwfL9xsKURihcdT0l8"
@@ -20,7 +20,7 @@ global.sessionName = "session"
 
 // Prefix //
 // 🎗don't change the prefix if you can change the prefix may be bot doesn't work properly//
-global.prefa = ['.'] 
+global.prefa = ['-'] 
 
 
 global.location = "bihar, India"
